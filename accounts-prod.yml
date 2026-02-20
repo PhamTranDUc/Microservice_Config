@@ -1,3 +1,8 @@
+spring:
+  h2:
+    console:
+      settings:
+        web-allow-others: true
 build:
   version: "1.0"
 
